@@ -1,0 +1,13 @@
+img{
+    width: 500px;
+    border-radius: 10px;
+}
+
+.awal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #eee;
+    width: fit-content;
+    padding: 10px;
+}
